@@ -4,13 +4,13 @@
   "colors": {
     "selection.background": "#B731B0",
     "input.background": "#080808",
-    "button.background": "#A55EFF",
+    "button.background": "#AB54D3",
     "button.foreground": "#fff",
     "quickInput.background": "#080808",
     "quickInputList.focusBackground": "#303030",
-    "textLink.foreground": "#A55EFF",
+    "textLink.foreground": "#AB54D3",
     "textLink.activeForeground": "#fff",
-    "focusBorder": "#A55EFF",
+    "focusBorder": "#AB54D3",
 
     /* Editor */
     "editor.background": "#080808",
@@ -34,13 +34,13 @@
     "breadcrumb.foreground": "#aaa",
 
     /* Files list */
-    "badge.background": "#A55EFF",
+    "badge.background": "#AB54D3",
     "badge.foreground": "#fff",
-    "list.activeSelectionBackground": "#A55EFF",
+    "list.activeSelectionBackground": "#AB54D3",
     "list.activeSelectionForeground": "#fff",
     "list.inactiveSelectionBackground": "#303030",
     "list.hoverBackground": "#303030",
-    "debugIcon.breakpointForeground": "#A55EFF",
+    "debugIcon.breakpointForeground": "#AB54D3",
 
     /* Title bar */
     "titleBar.activeBackground": "#080808",
@@ -56,8 +56,8 @@
     /* Activity bar */
     "activityBar.border": "#303030",
     "activityBarBadge.foreground": "#fff",
-    "activityBarBadge.background": "#A55EFF",
-    "activityBar.activeBorder": "#A55EFF",
+    "activityBarBadge.background": "#AB54D3",
+    "activityBar.activeBorder": "#AB54D3",
 
     /* Tabs */
     "editorGroupHeader.tabsBackground": "#080808",
@@ -65,7 +65,7 @@
     "tab.border": "#303030",
     "tab.activeBackground": "#080808",
     "tab.activeForeground": "#fff",
-    "tab.activeBorderTop": "#A55EFF",
+    "tab.activeBorderTop": "#AB54D3",
     "tab.hoverBackground": "#30303075",
     "tab.inactiveBackground": "#080808",
     "tab.inactiveForeground": "#6f6f6f",
@@ -79,7 +79,7 @@
     "gitDecoration.modifiedResourceForeground": "#E97258",
     "gitDecoration.untrackedResourceForeground": "#B3D761",
     "gitDecoration.addedResourceForeground": "#B3D761",
-    "gitDecoration.igno#BDE788ResourceForeground": "#6f6f6f"
+    "gitDecoration.ignoreResourceForeground": "#6f6f6f"
   },
   "tokenColors": [
     {
@@ -122,7 +122,7 @@
       "name": "Comments: Documentation Class",
       "scope": ["comment.block.documentation punctuation.definition.block.tag"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -136,7 +136,7 @@
       "name": "Operators",
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -155,7 +155,7 @@
       "name": "Operators",
       "scope": ["keyword.operator.assignment"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -167,7 +167,7 @@
       "name": "Keywords",
       "scope": ["keyword", "storage"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -181,14 +181,14 @@
       "name": "Types",
       "scope": ["storage.type", "support.type", "keyword.control"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
       "name": "Language Constants",
       "scope": ["constant.language", "support.constant", "variable.language"],
       "settings": {
-        "foreground": "#2CB092"
+        "foreground": "#E97258"
       }
     },
     {
@@ -244,7 +244,7 @@
       "name": "Functions",
       "scope": ["storage.type.function.arrow"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -269,7 +269,7 @@
       "name": "Sections",
       "scope": ["entity.name.section"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -283,7 +283,7 @@
       "name": "Strings",
       "scope": ["string"],
       "settings": {
-        "foreground": "#BDE788"
+        "foreground": "#98C75C"
       }
     },
     {
@@ -325,28 +325,28 @@
       "name": "punctuation.definition.quasi",
       "scope": ["punctuation.definition.quasi"],
       "settings": {
-        "foreground": "#BDE788"
+        "foreground": "#98C75C"
       }
     },
     {
       "name": "Punctuation: Keyword Definition",
       "scope": ["punctuation.definition.keyword"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
       "name": "Punctuation",
       "scope": ["punctuation.definition.string"],
       "settings": {
-        "foreground": "#BDE788"
+        "foreground": "#98C75C"
       }
     },
     {
       "name": "Punctuation: Entity Definition (Ini)",
       "scope": ["punctuation.definition.entity.ini"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -367,14 +367,14 @@
       "name": "Punctuation: Heading",
       "scope": ["punctuation.definition.heading"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
       "name": "Punctuation",
       "scope": ["punctuation.definition.string.template"],
       "settings": {
-        "foreground": "#2CB092"
+        "foreground": "#E97258"
       }
     },
     {
@@ -486,7 +486,7 @@
         "entity.name.tag.css"
       ],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -514,7 +514,7 @@
       "name": "CSS: Punctuation",
       "scope": ["punctuation.definition.entity.css"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -525,14 +525,14 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#2CB092"
+        "foreground": "#E97258"
       }
     },
     {
       "name": "CSS: Important Keyword",
       "scope": ["keyword.other.important"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     },
     {
@@ -648,7 +648,7 @@
       "name": "Markup Styling",
       "scope": ["markup.bold", "markup.italic"],
       "settings": {
-        "foreground": "#2CB092"
+        "foreground": "#E97258"
       }
     },
     {
@@ -690,7 +690,7 @@
       "name": "YAML: Frontmatter strings",
       "scope": ["meta.embedded.block.frontmatter string.unquoted"],
       "settings": {
-        "foreground": "#BDE788"
+        "foreground": "#98C75C"
       }
     },
     /* PHP */
@@ -698,7 +698,7 @@
       "name": "PHP: Begin block",
       "scope": ["punctuation.section.embedded.begin.php"],
       "settings": {
-        "foreground": "#A55EFF"
+        "foreground": "#AB54D3"
       }
     }
   ]
